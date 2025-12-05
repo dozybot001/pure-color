@@ -1,1 +1,1 @@
-# pure_color
+# pure-color
